@@ -8,7 +8,7 @@ This project demonstrates a complete end‑to‑end data warehousing and analyti
 
 The solution follows the **Medallion Architecture** with three layers:  
 
-![Data Architecture](docs/C:\Users\Ashik\Downloads.png)
+![Data Architecture](Docs/Data_architecture.png)
 
 1. **Bronze Layer**: Raw ERP & CRM CSV data ingested into PostgreSQL tables.  
 2. **Silver Layer**: Cleaned, standardized, and transformed data prepared for analysis.  
@@ -80,8 +80,10 @@ You are free to use, modify, and share with proper attribution.
 
 ## 🌟 About Me  
 
-Hi there! I'm **Ashik Kumar Ghosh**, a Data analytics enthusiast with expertise in SQL, Power BI, Tableau, Python, and modern data warehousing.  
+Hi there! I'm **Ashik Kumar Ghosh**, a Data analytics enthusiast with expertise in SQL, Power BI, Tableau and modern data warehousing.  
 
 I’m continuously learning and sharing projects to make analytics **accessible & practical**.  
 
-  
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashik-kumar-ghosh-58443b374)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashik-ghosh)
