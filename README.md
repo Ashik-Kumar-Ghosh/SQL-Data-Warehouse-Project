@@ -1,5 +1,5 @@
 # Data Warehouse and Analytics Project🚀
-Welcome to the **Data Warehouse & Analytics Portfolio** repository!  
+Welcome to the **Data Warehouse & Analytics Portfolio** repository! 
 This project demonstrates a complete end‑to‑end data warehousing and analytics solution using **PostgreSQL** — from raw data ingestion to actionable insights. Designed as a portfolio project, it showcases industry best practices in **data engineering, ETL pipelines, and business intelligence reporting**.  
 
 ---
