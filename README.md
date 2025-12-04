@@ -85,5 +85,4 @@ Hi there! I'm **Ashik Kumar Ghosh**, a Data analytics enthusiast with expertise 
 I’m continuously learning to make analytics **accessible & practical**.  
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashik-kumar-ghosh-58443b374)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashik-Kumar-Ghosh)
