@@ -82,7 +82,7 @@ You are free to use, modify, and share with proper attribution.
 
 Hi there! I'm **Ashik Kumar Ghosh**, a Data analytics enthusiast with expertise in SQL, Power BI, Tableau and modern data warehousing.  
 
-I’m continuously learning and sharing projects to make analytics **accessible & practical**.  
+I’m continuously learning to make analytics **accessible & practical**.  
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashik-kumar-ghosh-58443b374)
